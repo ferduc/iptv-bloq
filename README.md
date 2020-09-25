@@ -18,3 +18,6 @@ https://pastebin.com/raw/NXMxHQC4
 
 La nueva App para generar extensiones .m3u8
 Web Video Caster_5.0.5.1.apk
+
+Nuevo repositorio de canales 24/09/2020  https://pastebin.com/raw/CG528Zze
+Grupo de telegram donde comparten repositorios  https://t.me/StreamTech2
